@@ -79,3 +79,9 @@
 가격 예측: 주택 가격(House Price), 중고차 가격, 자전거 대여 요금 예측 (회귀)
 
 수요 예측: 자전거 대여 수, 택시 호출 수, 특정 기간의 판매량 예측 (회귀)
+
+범용모델 : random forest, XGBoost
+
+분류 (Logistic Regression)
+
+회귀 (Linear Regression)
