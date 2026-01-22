@@ -110,20 +110,20 @@
    - 1.2 인공지능 학습데이터 라벨링 유형(이미지/텍스트)과 저작 도구의 종류를 파악할 수 있다.
 
 2. **인공지능 학습데이터 라벨링하기 (2001070607_22v1.2)**
-   - 2.1 **[실습] 이미지 라벨링**: 공개 데이터셋(예: MNIST, CIFAR-10) 또는 수집 이미지를 활용하여 분류(Classification) 및 바운딩 박스(Detection) 라벨링 저작 도구(**LabelImg [Open Source]**, **CVAT [Community Edition]** 등) 실습
-   - 2.2 **[실습] 텍스트 라벨링**: **Google Sheets(무료)** 또는 **Label Studio [Community Edition]**을 활용하여 뉴스 기사 카테고리 분류, 영화 리뷰 감정(긍정/부정) 태깅 실습
-   - 2.3 **[심화] 반자동 라벨링**: Python(**Free**)을 활용하여 키워드 기반으로 1차 라벨링을 자동화하고, 사람이 검수하는 프로세스 실습
+   - 2.1 **[실습] 정형 데이터 라벨링**: 엑셀/CSV 데이터를 활용하여 비즈니스 로직에 따른 고객 등급 분류, 이상치(Outlier) 수동 마킹 실습
+   - 2.2 **[실습] 텍스트 라벨링**: **Google Sheets(무료)** 또는 **Label Studio**를 활용하여 뉴스 기사 카테고리 분류, 영화 리뷰 감정(긍정/부정) 태깅 실습
+   - 2.3 **[심화] 반자동 라벨링**: Python(**Free**)을 활용하여 단순 키워드 매칭(예: '좋다'→긍정) 등 **규칙 기반(Rule-based)**으로 1차 라벨링을 자동화하는 쉬운 실습
 
 #### 지식 (Knowledge)
 
 - 라벨링 가이드라인 이해
-- 이미지(Bounding Box, Polygon) 및 텍스트(Tagging, NER) 라벨링 기법
+- 텍스트(Tagging) 및 정형 데이터(Categorization) 라벨링 기법
 - 인공지능 학습데이터 구축 프로세스 (수집-정제-라벨링-검수)
 - 저작 도구(Tool) 사용법 (오픈소스 및 무료 도구 중심)
 
 #### 기술 (Skills)
 
-- 라벨링 툴 활용 능력 (**LabelImg**, **CVAT**)
+- 라벨링 툴 활용 능력 (**Excel**, **Label Studio**)
 - Python을 활용한 텍스트 데이터 전처리 및 반자동 라벨링 스크립트 작성 능력
 - 라벨링 데이터 품질 검수 능력
 
@@ -135,7 +135,7 @@
 
 #### 훈련장비
 
-- 컴퓨터, 라벨링 실습 도구(**LabelImg**, **CVAT Community**), Python IDE (**VS Code**, **Jupyter Notebook**)
+- 컴퓨터, 라벨링 실습 도구(**Excel**, **Label Studio Community**), Python IDE (**VS Code**, **Jupyter Notebook**)
 
 ---
 
