@@ -136,6 +136,7 @@
 #### 훈련장비
 
 - 컴퓨터, 라벨링 실습 도구(**Excel**, **Label Studio Community**), Python IDE (**VS Code**, **Jupyter Notebook**)
+https://github.com/HumanSignal/label-studio/blob/develop/LICENSE
 
 ---
 
