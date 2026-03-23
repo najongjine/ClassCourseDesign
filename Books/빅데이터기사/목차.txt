@@ -1,0 +1,92 @@
+PART 01 Python 기초와 데이터 구조
+SECTION 01 변수와 연산
+SECTION 02 데이터 타입의 이해
+01 Python의 데이터 타입
+02 데이터 타입 변환하기
+03 자료형별 메서드 요약
+SECTION 03 NumPy와 벡터
+01 NumPy 라이브러리
+02 NumPy와 배열
+03 NumPy 벡터 인덱싱과 슬라이싱
+04 NumPy 벡터 활용
+SECTION 04 NumPy 행렬과 배열
+SECTION 05 함수, 조건문과 반복문
+01 사용자 정의 함수
+02 조건문과 반복문
+03 함수와 환경
+PART 02 데이터 처리
+SECTION 01 Pandas로 데이터 프레임 다루기
+01 Pandas와 데이터 프레임
+02 Pandas의 메서드
+SECTION 02 Pandas를 활용한 날짜형, 문자형 데이터 다루기
+SECTION 03 scikit-learn을 활용한 데이터 전처리
+01 데이터 전처리 개요
+02 결측치 처리
+03 범주형 변수 처리
+04 변수 변환 및 스케일링
+05 데이터 누수 방지
+PART 03 머신러닝과 모델링
+SECTION 01 scikit-learn을 활용한 모델 평가 & 파라미터 튜닝
+SECTION 02 scikit-learn을 활용한 회귀 모델 적합
+01 회귀 분석의 기본
+02 회귀 분석 알고리즘
+03 앙상블 학습
+04 고급 회귀 기법(SVR, Support Vector Regression)
+05 모범 답안 작성 예시
+SECTION 03 scikit-learn을 활용한 분류 모델 적합
+01 분류 모델 평가 및 지표
+02 분류 알고리즘
+03 앙상블 학습
+04 고급 분류 기법(SVM, Support Vector Machine)
+05 모범 답안 작성 예시
+SECTION 04 scikit-learn을 활용한 군집분석 수행
+01 군집분석 준비
+02 군집분석 기법
+03 유효성 지표
+PART 04 통계와 확률
+SECTION 01 기초 통계 & 확률의 이해
+01 표본 추출
+02 통계적 용어 정리
+03 확률 계산 과정의 이해
+04 확률변수의 편리성
+SECTION 02 확률분포 다루기
+01 SciPy 라이브러리와 분포 함수
+02 이산 확률분포
+03 연속 확률분포
+PART 05 통계적 추정과 검정
+SECTION 01 통계적 추정과 가설 검정
+01 구간 추정
+02 통계적 검정
+03 검정통계량
+SECTION 02 t-검정과 분산 비교
+01 t-검정의 자료형
+02 t-검정의 종류
+03 데이터 분석에서 t-검정 적용
+04 Python에서 t-검정 수행
+05 t-검정 종류에 따른 검정통계량
+06 두 그룹의 분산이 같음을 체크하는 방법
+SECTION 03 데이터가 분포를 따르는지 확인하는 방법
+01 다섯 숫자 요약과 IQR
+02 Quantile-Quantile plot
+03 Shapiro-Wilk 검정
+04 앤더슨-달링(Anderson-Darling) 검정
+05 카이제곱 검정
+SECTION 04 분산 분석
+01 분산 분석(ANOVA, Analysis of Variance)
+02 일원 분산 분석(One-way ANOVA)
+03 가정 체크와 사후 검정
+SECTION 05 비모수 검정
+01 비모수 검정
+02 비모수 분산 검정(Levene test)
+03 1 표본 부호 검정(Sign test)
+PART 06 선형 모형
+SECTION 01 선형 회귀 분석
+01 상관계수(Correlation Coefficient)
+02 단순 선형 회귀(Simple Linear Regression)
+03 다중 선형 회귀(Multiple Linear Regression)
+04 모델 평가
+05 예측
+SECTION 02 로지스틱 회귀 분석(Logistic Regression)
+01 로지스틱 회귀 기본 개념
+02 로지스틱 회귀계수 예측과 해석
+03 로지스틱 회귀 분석 과정
