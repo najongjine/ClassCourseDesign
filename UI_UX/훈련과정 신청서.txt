@@ -1,3 +1,7 @@
+https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?crseTracseSe=C0061&tracseId=AIG20250000514212&tracseTme=1&trainstCstmrId=500035530560&utm_source=chatgpt.com
+https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl1.do?crseTracseSe=500020027870&cstmConsTme=&focusId=&tracseId=AIG20250000501622&tracseReqstsCd=&tracseTme=3&trainstCstmrId=C0061&utm_medium=referral&utm_source=chatgpt.com
+
+
 훈련목표:
 1. 사용자 요구사항을 분석하여 웹·모바일 환경에 적합한 반응형 웹사이트를 기획하고 구축할 수 있다.
 2. 단순한 문서형 화면이 아닌 UI/UX를 고려한 웹서비스 화면을 설계하고, 사용자가 원하는 목적에 맞는 디자인을 구현할 수 있다.
