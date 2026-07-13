@@ -205,3 +205,9 @@ React 기반 생육 모니터링 화면 구현
 작물별 생육 이력 저장
 농장 구역별 생육 상태 대시보드
 생육 변화 리포트
+
+---
+
+tinkercad 에서
+smartfarm
+smart factory 구체적인적용 사례
